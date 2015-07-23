@@ -1,7 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/rbogle/management.png?label=ready&title=Ready)](https://waffle.io/rbogle/management)
 
-<nonsense>foobar</nonsense>
-
 # Management
 
 ## Introduction
