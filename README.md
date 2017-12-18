@@ -87,3 +87,5 @@ This role allows the server to act as a central log archive. All device and host
 
 ### end
 As you may have guessed from its name, this role should run at the very end. It allows you to follow the Unix `directory.d` pattern. Roles can add files to a `dir.d` folder and then this role will cause the daemon being configured to restart. This is needed for iptables, collectd, and others. It makes up for the lack of support by Ansible for global handlers.
+
+Add a line here
